@@ -310,3 +310,7 @@ Podstar uses Clerk to handle user authentication and authorization. This provide
 ## <a name="Future">🤸 Future</a>
 
 We aim to build a full fleged startup product with many more features in the future and use Convex & AI to its full potential.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=balendu9/podstar&type=Timeline)](https://star-history.com/#balendu9/podstar&Timeline)
