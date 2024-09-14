@@ -80,27 +80,27 @@ and many more, including code architecture and reusability
 
 
 1) functions: 
--Queries
--Mutations
--Actions
--HTTP Actions
--Validation
--Error Handling
+- Queries
+- Mutations
+- Actions
+- HTTP Actions
+- Validation
+- Error Handling
 2) Database:
--Tables & Documents
--Reading Data
--Writing Data
--Document IDs
--Data Types
--Schemas
+- Tables & Documents
+- Reading Data
+- Writing Data
+- Document IDs
+- Data Types
+- Schemas
 3) File Storage
--Upload
--Store
--Serve
--Delete
--Metadata
+- Upload
+- Store
+- Serve
+- Delete
+- Metadata
 4) Authentication
--Clerk
+- Clerk
 
 
 
