@@ -356,7 +356,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 📱 Mobile App: We’re working on launching a mobile app for Podstar to provide seamless podcast creation and listening on the go, making it even more accessible to a broader audience.
 
-🎯 Monetization for Creators: In the future, we aim to offer monetization features that allow creators to earn from their podcasts through subscriptions or ads directly on Podstar.
+🎯 Monetization for Creators: In the future, we aim to offer monetization features that allow creators to earn from their podcasts through ads directly on Podstar.
 
 🔗 Partnerships & Integrations: We’re exploring partnerships with other podcast platforms, AI services, and content creators to integrate Podstar into broader ecosystems and reach new audiences.
 
