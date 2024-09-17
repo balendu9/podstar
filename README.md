@@ -352,4 +352,14 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## <a name="Future">🤸 Future</a>
 
-We aim to build a full fleged startup product with many more features in the future and use Convex & AI to its full potential.
+🛠️ Advanced Editing Tools: Our next goal is to integrate more advanced audio editing tools, allowing users to fine-tune their podcasts after the initial AI-generated audio is produced.
+
+📱 Mobile App: We’re working on launching a mobile app for Podstar to provide seamless podcast creation and listening on the go, making it even more accessible to a broader audience.
+
+🎯 Monetization for Creators: In the future, we aim to offer monetization features that allow creators to earn from their podcasts through subscriptions or ads directly on Podstar.
+
+🔗 Partnerships & Integrations: We’re exploring partnerships with other podcast platforms, AI services, and content creators to integrate Podstar into broader ecosystems and reach new audiences.
+
+🌟 Community & Discovery Features: Building a community of creators and listeners is a priority, and we plan to introduce more discovery tools and community engagement features to help podcasts reach the right audience.
+
+🚀 Scalability: As the platform grows, we’re focused on optimizing Podstar for scalability, ensuring it remains fast, reliable, and easy to use as we onboard more users.
